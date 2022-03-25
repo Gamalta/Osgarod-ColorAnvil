@@ -1,0 +1,8 @@
+name: CustomItems
+main: fr.gamalta.osgarod.customitems.CustomItems
+version: 1.0
+author: Gamalta
+api-version: 1.14
+depend: [OsgarodCore]
+commands:
+  ResourcePack:
